@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-I'm currently learning C# using the .NET framework and preparing for project for a client yet to be determined.
+I'm currently learning C# using the .NET framework and preparing for a project for Honey Does LLC.
 
 
 # 💻 Tech Stack:
